@@ -1,0 +1,19 @@
+body {
+	background: radial-gradient(at top,#D88306,#000000);
+	
+}
+.nav{
+	
+	background-color:#31302f;
+    
+	border: 7px solid #000;
+	
+}
+.nav-link{
+	background-color: #D88306;
+	color: white;
+	
+}
+.nav-item{
+	background-color: #D88306;
+}

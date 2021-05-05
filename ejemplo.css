@@ -1,0 +1,23 @@
+body {
+	background: radial-gradient(at top,#D88306,#000000);
+	
+}
+.jumbotron{
+    background-color: #000000;
+    color: #D88306;
+}
+.p1{
+    color: aliceblue;
+}
+.carousel-item.img{
+    width: 100%;
+    height: auto;
+}
+
+.video{
+    border: 10px,#D88306,solid;
+}
+.fakeimage{
+    width: 100%;
+    height: auto;
+}
